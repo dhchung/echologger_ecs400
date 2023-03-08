@@ -1,7 +1,7 @@
 ## Before you start
 
 You need to change the mode into "Altimeter NMEA" using windows program.\
-Set Baudrate as 115200 also.
+Also set Baudrate as 115200.
 
 ## Install
 
