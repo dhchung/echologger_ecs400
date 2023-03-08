@@ -58,6 +58,7 @@ int main(int argc, char **argv){
 
     ros::spin();
 
+    io.stop();
     io_thread.join();
 
     return 0;
